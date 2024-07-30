@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por criar websites e aplicativos, com uma forte 
 - 🌱 Atualmnete estou estudonado MongoDB....
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CafeSelvagem&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CafeSelvagem&theme=ocean_dark&show_icons=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CafeSelvagem&theme=midnight-purple&layout=compact)-->
 
 
