@@ -1,6 +1,6 @@
 ## Ola Sou Paulo Miguel - Seja bem vindo(a) ao meu Perfil 👋
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="400px" width="450px" align="right"> 
 
 Sou um desenvolvedor apaixonado por criar websites e aplicativos, com uma forte dedicação à aprendizagem e ao desenvolvimento de Inteligência Artificial. Atualmente, estou focado em explorar e integrar soluções de IA para melhorar a experiência do usuário e a eficiência dos sistemas.
 
