@@ -2,19 +2,19 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-Desenvolvedor(a) apaixonado(a) por [suas áreas de interesse], com experiência em [principais habilidades]. Atualmente focado(a) em [tecnologias ou projetos atuais].
+Sou um desenvolvedor apaixonado por criar websites e aplicativos, com uma forte dedicação à aprendizagem e ao desenvolvimento de Inteligência Artificial. Atualmente, estou focado em explorar e integrar soluções de IA para melhorar a experiência do usuário e a eficiência dos sistemas.
 
-### 🌟 Projetos Destacados
-- **[AGO7]**: [Site para uma Agencia] (https://ago7.com.br/)
-- **[Nome do Projeto]**: [Breve descrição] ([Link para o repositório])
+<!-- ### 🌟 Projetos Destacados
+- **[AGO7]**: [Site para uma Agencia] (https://ago7.com.br/) -->
 
 ### 🚀 Habilidades
 - **Linguagens**: JavaScript, Java, Python, PHP
 - **Frameworks**: React, Node.js, Bootstrap
-- **BDMS**: Mysql, Oracle, MongoDB
+- **BDMS**: Mysql, Oracle
 
 ### 📚 Desenvolvimento
 - 🌱 Atualmnete estou estudonado React-native....
+- 🌱 Atualmnete estou estudonado MongoDB....
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CafeSelvagem&theme=midnight-purple&show_icons=true)
@@ -39,11 +39,9 @@ Desenvolvedor(a) apaixonado(a) por [suas áreas de interesse], com experiência 
  
 <div> 
   <a href="https://instagram.com/phallu73" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:paulo.miguel.v2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-miguel-840b18222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/CafeSelvagem/CafeSelvagem/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/CafeSelvagem/cafeselvagem/blob/output/github-contribution-grid-snake.svg)
 
 
