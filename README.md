@@ -16,17 +16,11 @@ Sou um desenvolvedor apaixonado por criar websites e aplicativos, com uma forte 
 - 🌱 Atualmnete estou estudonado React-native....
 - 🌱 Atualmnete estou estudonado MongoDB....
 
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CafeSelvagem&theme=ocean_dark&show_icons=true) -->
 <div align="left">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CafeSelvagem&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />-->
-<!-- <img src="https://streak-stats.demolab.com?user=CafeSelvagem&locale=pt-br&mode=daily&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  /> -->
-  <img src="https://tenor.com/pt-BR/view/programming-gif-24916992-https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif"/>
- <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=CafeSelvagem&radius=16&theme=react&area=true&order=5&bg_color=1111&color=555&title_color=1568" height="300" alt="activity-graph graph"  />
-</div>-->
+  
+![programming](https://github.com/user-attachments/assets/5c1b112b-90d9-448a-bf88-67dd9e17ed73)
 
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CafeSelvagem&theme=midnight-purple&layout=compact)-->
+</div
 
 
 <div style="display: inline_block"><br>
@@ -80,6 +74,8 @@ Sou um desenvolvedor apaixonado por criar websites e aplicativos, com uma forte 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaféSelvagem/CaféSelvagem/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaféSelvagem/CaféSelvagem/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 
 
 
