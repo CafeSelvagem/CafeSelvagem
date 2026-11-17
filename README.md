@@ -9,8 +9,8 @@ Sou um desenvolvedor apaixonado por criar websites e aplicativos, com uma forte 
 - **[AGO7]**: [Site para uma Agencia] (https://ago7.com.br/) -->
 
 ### 🚀 Habilidades
-- **Linguagens**: JavaScript, Java, Python, PHP...
-- **Frameworks**: React, Node.js, Bootstrap....
+- **Linguagens**: JavaScript, Java, Python.
+- **Frameworks**: React, styled-components, Vite....
 - **BDMS**: Mysql, Oracle..
 
 ### 📚 Desenvolvimento
